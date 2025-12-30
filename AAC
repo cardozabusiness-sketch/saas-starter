@@ -1,0 +1,4 @@
+npx create-next-app@latest aac-contractors --ts --app
+cd aac-contractors
+npm install @supabase/supabase-js tailwindcss postcss autoprefixer
+npx tailwindcss init -p
